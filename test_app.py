@@ -2,7 +2,7 @@ from app import dodaj, odejmij, pomnoz, podziel
 
 
 def test_dodaj():
-    assert dodaj(2, 3) == 5
+    assert dodaj(2, 3) == 10
 
 
 def test_odejmij():
